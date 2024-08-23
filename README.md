@@ -3,7 +3,7 @@
 I'm a Full Stack Web Developer who loves making websites and web applications that provide value to users.
 
 * 🌍  Based in Canada
-* 🖥️  See my portfolio at [emeka-okechukwu-dev.github.io](https://emeka-okechukwu-dev.github.io)
+* 🖥️  See my portfolio at [emeka-okechukwu.github.io](https://emeka-okechukwu.github.io)
 * ✉️  You can contact me at [chuks.egkedu@gmail.com](mailto:chuks.egkedu@gmail.com)
 
 ### Skills
